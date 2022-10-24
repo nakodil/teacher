@@ -1,0 +1,2 @@
+netsh wlan add filter permission=allow ssid="it" networktype=infrastructure
+netsh wlan add filter permission=denyall networktype=infrastructure
